@@ -13,4 +13,4 @@
  - run
 
 # how to check google chrome version
-- chrome://settings/help
+- place this to url : chrome://settings/help
