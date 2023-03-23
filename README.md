@@ -7,7 +7,10 @@
 
 # installation
 
- - download chrome driver : https://chromedriver.chromium.org/downloads
+ - download chrome driver(select as your google chrome version) : https://chromedriver.chromium.org/downloads
  - place in this workspace directory
  - rename it to chromedriver.exe
  - run
+
+# how to check google chrome version
+- chrome://settings/help
